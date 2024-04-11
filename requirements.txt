@@ -35,7 +35,7 @@ colorama==0.4.4
 constructs==3.2.67
 cycler==0.10.0
 docutils==0.16
-idna==2.10
+idna==3.7
 jmespath==0.10.0
 jsii==1.16.0
 keyring==21.5.0
